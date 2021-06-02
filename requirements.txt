@@ -31,7 +31,7 @@ idna==2.6
 itsdangerous==0.24
 Jinja2==2.10
 jmespath==0.9.3
-markdown2==2.3.4
+markdown2==2.4.0
 MarkupSafe==1.0
 nba-py==0.1.1a2
 numpy==1.13.3
